@@ -1,0 +1,6 @@
+{
+  "name": "Pathology Flashcards",
+  "description": "Interactive high-yield medical pathology flashcards with 3D flip study, active quiz testing, spaced repetition ratings, and detailed rationale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
